@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+.env
+
+# Hardhat cache and artifacts
+artifacts/
+cache/
+typechain/
+typechain-types/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Coverage output
+coverage/
+
+# Compiled contracts (optional if you're using them)
+*.json
+
+# Build folder (if used)
+build/
